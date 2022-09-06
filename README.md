@@ -1,2 +1,5 @@
 # PythonCambelau
-Every Python personnal project I did
+## Summary
+
+* Twitter Scraping
+* Wikipedia Scrapping
